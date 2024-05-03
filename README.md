@@ -1,4 +1,6 @@
 ### Hi there 👋
+<link href="https://tenor.com/bgNSl.gif"\>
+🔭 I’m currently working on a react project <br>
 🌱 I’m currently learning react.js <br>
 📫 How to reach me: sarthak.sugar@gmail.com
 
