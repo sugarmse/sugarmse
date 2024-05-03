@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/sugarmse/sugarmse/blob/main/a.gif">
+<img src="https://github.com/sugarmse/sugarmse/blob/main/a.gif"> <br>
 🔭 I’m currently working on a react project <br>
 🌱 I’m currently learning react.js <br>
 📫 How to reach me: sarthak.sugar@gmail.com
