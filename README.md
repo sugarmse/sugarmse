@@ -1,5 +1,5 @@
 <p align="center">
-![aesthetic-landscape-with-train_800](https://github.com/sugarmse/sugarmse/assets/104124496/48dcb0f4-5349-49a9-8149-e8730738ac0c)<br>
+<img src="a.gif" alt="animated" />
 🔭 I’m currently working on a react project <br>
 🌱 I’m currently learning react.js <br>
 📫 How to reach me: sarthak.sugar@gmail.com
