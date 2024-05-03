@@ -1,4 +1,4 @@
-<img src="https://github.com/sugarmse/sugarmse/blob/main/a.gif"width="50"height="50">
+<img src="https://github.com/sugarmse/sugarmse/blob/main/a.gif">
 <p align="center">
 🔭 I’m currently working on a react project <br>
 🌱 I’m currently learning react.js <br>
