@@ -1,9 +1,9 @@
-![aesthetic-landscape-with-train_800](https://github.com/sugarmse/sugarmse/assets/104124496/48dcb0f4-5349-49a9-8149-e8730738ac0c)<br>
 <p align="center">
+![aesthetic-landscape-with-train_800](https://github.com/sugarmse/sugarmse/assets/104124496/48dcb0f4-5349-49a9-8149-e8730738ac0c)<br>
 🔭 I’m currently working on a react project <br>
 🌱 I’m currently learning react.js <br>
 📫 How to reach me: sarthak.sugar@gmail.com
-</center>
+</p>
 
 <!--
 **sugarmse/sugarmse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
