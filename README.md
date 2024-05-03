@@ -1,7 +1,7 @@
+<p>
+  <img src="a.gif" alt="animated" />
+</p>
 <p align="center">
-  ![a](https://github.com/sugarmse/sugarmse/assets/104124496/40c531f3-7e85-469d-9415-6378d7ecf2a2)
-
-<img src="a.gif" alt="animated" />
 🔭 I’m currently working on a react project <br>
 🌱 I’m currently learning react.js <br>
 📫 How to reach me: sarthak.sugar@gmail.com
