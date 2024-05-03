@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div class="tenor-gif-embed" data-postid="16358959" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%"><a href="https://tenor.com/view/obi-wan-kenobi-star-wars-hello-there-ewan-mcgregor-gif-16358959">Obi Wan Kenobi Star Wars GIF</a>from <a href="https://tenor.com/search/obi+wan+kenobi-gifs">Obi Wan Kenobi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![hello-pencil](https://github.com/sugarmse/sugarmse/assets/104124496/2baf09bb-e053-4f0a-8cd6-7c0434dd1bb9)
 🔭 I’m currently working on a react project <br>
 🌱 I’m currently learning react.js <br>
 📫 How to reach me: sarthak.sugar@gmail.com
