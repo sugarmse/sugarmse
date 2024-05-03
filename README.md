@@ -1,8 +1,4 @@
-![a](https://github.com/sugarmse/sugarmse/assets/104124496/425e7cff-1199-4d23-a244-88fae760cc59)
-
-<p>
-  <img src="a.gif" alt="animated" />
-</p>
+![a](https://github.com/sugarmse/sugarmse/assets/104124496/425e7cff-1199-4d23-a244-88fae760cc59 | width=100)
 <p align="center">
 🔭 I’m currently working on a react project <br>
 🌱 I’m currently learning react.js <br>
