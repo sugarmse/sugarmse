@@ -1,7 +1,9 @@
 <p align="center">
 <img src="https://github.com/sugarmse/sugarmse/blob/main/a.gif"> <br>
+  <!--
 🔭 I’m currently working on a to-do-list <br>
-🌱 I’m currently learning dart <br>
+  -->
+🌱 I’m currently learning Google UX Design <br>
 📫 How to reach me: sarthak.sugar@gmail.com
 </p>
 
