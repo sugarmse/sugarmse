@@ -103,7 +103,7 @@ I enjoy refining products, improving usability, and building things that feel ri
 ## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sugarmse/sugarmse/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sugarmse/sugarmse/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
