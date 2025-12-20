@@ -1,59 +1,143 @@
-# Hi, I'm Sarthak 👋
+<h1 align="center">Hi, I'm Sarthak 👋</h1>
+<p align="center">
+  <b>Software Developer • UI/UX Designer • Content Writer</b><br/>
+  Nepal 🇳🇵
+</p>
 
-💻 Software Developer | 🎨 UI/UX Designer | ✍️ Content Writer  
-Based in Nepal 🇳🇵
+<style>
+  .container {
+    max-width: 900px;
+    margin: auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+  }
 
-I build clean, functional web and app experiences—blending **code, design, and content** to create products that are both usable and meaningful.  
-I enjoy working on real-world projects and improving systems through thoughtful design and solid engineering.
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 16px;
+    margin-top: 20px;
+  }
 
----
+  .card {
+    padding: 18px;
+    border-radius: 14px;
+    background: #0d1117;
+    border: 1px solid #30363d;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
 
-## 🚀 What I Do
-- Build web apps using **Python & JavaScript**
-- Develop UI using **React, HTML, CSS**
-- Design interfaces and user flows (Figma)
-- Write clear, user-focused content
-- Test, refine, and improve existing products
+  .card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+  }
+
+  .card h3 {
+    margin-top: 0;
+    font-size: 1.1rem;
+  }
+
+  .tag {
+    display: inline-block;
+    padding: 4px 10px;
+    margin: 4px 4px 0 0;
+    border-radius: 999px;
+    font-size: 12px;
+    background: #161b22;
+    border: 1px solid #30363d;
+  }
+
+  .fade {
+    animation: fadeIn 0.8s ease forwards;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
+
+<div class="container fade">
+
+## 🚀 About Me
+I build clean, functional digital experiences by combining **development, design, and content**.  
+I enjoy working on real-world projects, refining UI/UX, and improving systems through thoughtful engineering.
 
 ---
 
 ## 🧩 Featured Projects
-### 🔹 Loko
-- Contributed to core features and UI improvements  
-- Focused on usability, performance, and testing
+<div class="grid">
 
-### 🔹 Servicer
-- Worked on frontend development and content writing  
-- Designed interfaces and tested user flows
+<div class="card">
+  <h3>🔹 Loko</h3>
+  <p>
+    Worked on core features, UI improvements, and testing.  
+    Focused on usability, performance, and clean interaction flows.
+  </p>
+</div>
 
-### 🔹 Shubhashree Cement Website
-- Revamped website UI/UX
-- Improved layout clarity and content structure
-- Focused on professional, industry-grade presentation
+<div class="card">
+  <h3>🔹 Servicer</h3>
+  <p>
+    Frontend development, interface design, and content writing.  
+    Designed and tested user journeys for better UX.
+  </p>
+</div>
+
+<div class="card">
+  <h3>🔹 Shubhashree Cement Website</h3>
+  <p>
+    Revamped UI/UX and improved content structure.  
+    Focused on clarity, professionalism, and industry-grade presentation.
+  </p>
+</div>
+
+</div>
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:**  
-`Python` `JavaScript`
+<div class="grid">
 
-**Frontend:**  
-`React` `HTML` `CSS`
+<div class="card">
+  <h3>Languages</h3>
+  <span class="tag">Python</span>
+  <span class="tag">JavaScript</span>
+</div>
 
-**Design & Tools:**  
-`Figma` `Git` `GitHub`
+<div class="card">
+  <h3>Frontend</h3>
+  <span class="tag">React</span>
+  <span class="tag">HTML</span>
+  <span class="tag">CSS</span>
+</div>
+
+<div class="card">
+  <h3>Design & Tools</h3>
+  <span class="tag">Figma</span>
+  <span class="tag">Git</span>
+  <span class="tag">GitHub</span>
+</div>
+
+</div>
 
 ---
 
 ## 🌱 Currently
-- Improving React patterns and component design
+- Improving React component patterns
 - Strengthening Python fundamentals
-- Exploring better UI/UX workflows
+- Refining UI/UX workflows
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/sugarmse/
+## 📫 Connect
+- GitHub: https://github.com/yourusername
 
----
-⭐ *Always learning, always building.*
+⭐ <i>Always learning, always building.</i>
+
+</div>
