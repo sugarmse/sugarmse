@@ -9,11 +9,11 @@ jobs:
     steps:
       # 1️⃣ Checkout your repo
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.3.0
 
       # 2️⃣ Generate the snake animation
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.3.0
         with:
           github_user_name: sugarmse
           outputs: |
