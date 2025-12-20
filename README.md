@@ -53,8 +53,7 @@ I enjoy working on real-world projects and improving systems through thoughtful 
 ---
 
 ## 📫 Connect With Me
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: *(add if you want)*
+- LinkedIn: https://linkedin.com/sugarmse
 
 ---
 ⭐ *Always learning, always building.*
