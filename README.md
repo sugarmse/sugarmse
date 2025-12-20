@@ -53,7 +53,7 @@ I enjoy working on real-world projects and improving systems through thoughtful 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/sugarmse
+- LinkedIn: https://www.linkedin.com/in/sugarmse/
 
 ---
 ⭐ *Always learning, always building.*
