@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Sarthak%20Shakya&fontSize=46&fontColor=ffffff&desc=Developer%20•%20Designer%20•%20Content%20Writer&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,100:22c55e&text=Sarthak%20Shakya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20•%20UI%2FUX%20Designer%20•%20Content%20Writer&descSize=18&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
 <p align="center">
 I craft <b>digital experiences</b> where code, design, and content work together.<br/>
 I enjoy refining products, improving usability, and building things that feel right.<br/><br/>
-📍 Nepal 🇳🇵
 </p>
 
 ---
