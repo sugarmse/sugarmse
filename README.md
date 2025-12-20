@@ -1,23 +1,60 @@
-<p align="center">
-<img src="https://github.com/sugarmse/sugarmse/blob/main/a.gif"> <br>
-  
-<!--🔭 I’m currently working on a NewVision Services Project <br> -->
-  
-🌱 I’m currently learning ReactJS <br>
-📫 How to reach me: sarthak.sugar@gmail.com
-</p>
+# Hi, I'm Sarthak 👋
 
-<!--
-**sugarmse/sugarmse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 🎨 UI/UX Designer | ✍️ Content Writer  
+Based in Nepal 🇳🇵
 
-Here are some ideas to get you started:
+I build clean, functional web and app experiences—blending **code, design, and content** to create products that are both usable and meaningful.  
+I enjoy working on real-world projects and improving systems through thoughtful design and solid engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...react.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...sarthak.sugar@gmail.com
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- Build web apps using **Python & JavaScript**
+- Develop UI using **React, HTML, CSS**
+- Design interfaces and user flows (Figma)
+- Write clear, user-focused content
+- Test, refine, and improve existing products
+
+---
+
+## 🧩 Featured Projects
+### 🔹 Loko
+- Contributed to core features and UI improvements  
+- Focused on usability, performance, and testing
+
+### 🔹 Servicer
+- Worked on frontend development and content writing  
+- Designed interfaces and tested user flows
+
+### 🔹 Shubhashree Cement Website
+- Revamped website UI/UX
+- Improved layout clarity and content structure
+- Focused on professional, industry-grade presentation
+
+---
+
+## 🛠 Tech Stack
+**Languages:**  
+`Python` `JavaScript`
+
+**Frontend:**  
+`React` `HTML` `CSS`
+
+**Design & Tools:**  
+`Figma` `Git` `GitHub`
+
+---
+
+## 🌱 Currently
+- Improving React patterns and component design
+- Strengthening Python fundamentals
+- Exploring better UI/UX workflows
+
+---
+
+## 📫 Connect With Me
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: *(add if you want)*
+
+---
+⭐ *Always learning, always building.*
