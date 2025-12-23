@@ -4,14 +4,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&to=info.sarthakshakya@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; outline:none; border:none;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ssportfolio-tau.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
 
 ## 🎨 What I Do
 
