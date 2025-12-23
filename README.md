@@ -77,10 +77,6 @@
 ## 📊 Activity & Momentum
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugarmse&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugarmse&theme=transparent&hide_border=true" />
 </p>
 
