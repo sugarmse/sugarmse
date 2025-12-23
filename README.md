@@ -3,6 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=520&lines=I+build+digital+experiences;Code+%2B+Design+%2B+Content;Creative+Frontend+Developer;UI%2FUX+Focused+Engineer" />
 </p>
 
+<p align="center">
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ## 🎨 What I Do
 
