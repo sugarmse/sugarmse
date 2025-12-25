@@ -87,14 +87,6 @@
 
 ---
 
-## 📊 Activity & Momentum
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugarmse&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Flow
 
 <p align="center">
