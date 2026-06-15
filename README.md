@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://ssportfolio-tau.vercel.app/" target="_blank">
+  <a href="https://shakyasarthak.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
